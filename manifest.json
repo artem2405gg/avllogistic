@@ -1,0 +1,15 @@
+{
+    "name": "AVL Logistic",
+    "short_name": "AVL Logistic",
+    "start_url": "/",
+    "display": "standalone",
+    "background_color": "#f4f6f9",
+    "theme_color": "#1a1a2e",
+    "icons": [
+        {
+            "src": "/icons/icon.php",
+            "sizes": "192x192",
+            "type": "image/png"
+        }
+    ]
+}
